@@ -1,0 +1,4 @@
+name: InfinityRedisProxy
+version: '${project.version}'
+main: com.github.kaoryinfinitymc.infinityredisproxy.InfinityRedisProxy
+description: InfinityRedisProxy
