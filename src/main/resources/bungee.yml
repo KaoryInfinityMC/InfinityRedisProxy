@@ -1,4 +1,4 @@
 name: InfinityRedisProxy
 version: '${project.version}'
-main: com.github.kaoryinfinitymc.infinityredisproxy.InfinityRedisProxy
+main: com.github.kaoryinfinitymc.infinityredisproxy.bungee.InfinityRedisProxyBungee
 description: InfinityRedisProxy

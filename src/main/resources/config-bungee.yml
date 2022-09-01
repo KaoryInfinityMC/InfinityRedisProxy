@@ -1,0 +1,18 @@
+
+config-version: 1.0.0
+
+redis:
+  host: "127.0.0.1"
+  port: 6379
+  password: "password"
+
+server-config:
+  server:
+    id: "ProxyNA1"
+    proxy-name: "Proxy-NA-1"
+    online-mode: true
+
+settings:
+  prevent-existing-connections-another-proxy: true
+  online-mode: true
+  

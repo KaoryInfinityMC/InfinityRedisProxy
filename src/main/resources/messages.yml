@@ -1,0 +1,13 @@
+messages:
+  general:
+    prefix: "&8[&aInfinityRedisProxy&8]&r" # Value: %prefix%
+    no-permission: "%prefix% You not permission."
+
+  global:
+    alert:
+      prefix: "&8[&3Alert&8]&r" # This is the alert that is shown when you type /galert <message>.
+      using: "%prefix% &fUsing: /galert <message>"
+      alert-correctly: "%prefix% &aThe global alert &r'%message%' &awas sent successfully!"
+    commands:
+      using: "%prefix% &aUsing: /gcmd <command>"
+      execute-proxy-cmd: "&aThe &r'%command%' &acommand was executed successfully on all proxies!" # This is the message that is shown when you type /pcmd <command> correctly.
